@@ -1,4 +1,4 @@
-# Potty Road  
+# AssistRoad  
 Realtime pothole severity classifier powered by Deep Learning  
 
 ## Installation Instructions
@@ -9,8 +9,8 @@ as to avoid conflicts with other projects.
 1. Clone the repository
 
     ```bash
-        $ git clone https://github.com/sanjay-thiyagarajan/PottyRoad.git
-        $ cd PottyRoad
+        $ git clone https://github.com/lokesh-ponraj/AssistRoad.git
+        $ cd AssistRoad
     ```  
 2. Create a python 3 virtualenv, activate the environment and Install the project dependencies.   
 
